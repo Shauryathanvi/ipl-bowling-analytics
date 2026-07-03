@@ -3,9 +3,7 @@
 -- Complete SQL Pipeline in Execution Order
 -- ============================================================
 -- Prerequisites before running this file:
--- 1. Load deliveries CSV into MySQL as the `deliverie` table via Python/SQLAlchemy
--- 2. Load batter_averages_v2.csv into MySQL as `batter_averages` via Python/SQLAlchemy
--- 3. Load venue_details_clean.csv into MySQL as `venue_details` via Python/SQLAlchemy
+-- Load .csv files as tables through the given python file
 -- ============================================================
 
 
