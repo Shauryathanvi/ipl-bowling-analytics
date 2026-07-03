@@ -3,11 +3,9 @@
 -- Complete SQL Pipeline in Execution Order
 -- ============================================================
 -- Prerequisites before running this file:
--- 1. Load deliveries CSV into MySQL as the `deliveries` table via Python/SQLAlchemy
+-- 1. Load deliveries CSV into MySQL as the `deliverie` table via Python/SQLAlchemy
 -- 2. Load batter_averages_v2.csv into MySQL as `batter_averages` via Python/SQLAlchemy
 -- 3. Load venue_details_clean.csv into MySQL as `venue_details` via Python/SQLAlchemy
--- 4. Load bowler_metadata_clean.csv into MySQL as `bowler_metadata` via Python/SQLAlchemy
--- 5. Populate the `final_or_needed_score` column via the Python script provided
 -- ============================================================
 
 
