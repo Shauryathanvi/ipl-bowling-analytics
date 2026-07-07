@@ -101,8 +101,8 @@ Venue pitch classifications were sourced and applied to all 13 IPL 2026 venues, 
 ipl_bowling_analytics.sql   - Full SQL pipeline in execution order (11 sections)
 batter_averages_v2.csv      - IPL 2026 batter averages (202 players, all 10 teams)
 venue_details_clean.csv     - Pitch surface classifications for all 13 venues
-bowler_metadata_clean.csv   - Bowler type metadata (pace/spin, bowling hand)
 ipl_2026_final_bbb.csv      - Ball by ball data (source)
+csv_to)db.ipynb             - Python script to load files into SQL database
 ```
 
 ---
